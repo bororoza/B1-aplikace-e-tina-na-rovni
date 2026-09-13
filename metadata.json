@@ -1,0 +1,6 @@
+{
+  "name": "Čeština na úrovni B1",
+  "description": "Trenažér 30 témat pro ústní zkoušku z češtiny B1 s tréninkem slovíček pro anglicky a rusky mluvící studenty, registrací a bankou slovíček",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
